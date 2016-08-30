@@ -1,0 +1,202 @@
+body{
+	margin: 10;
+	padding: 10;
+	font: 70%/160% "Baskerville Old Face", sans-serif;
+	background-color:#fcf;
+}
+
+#contenedor{
+	width: 95%;
+	margin: 10px ;
+	padding: 10px;
+}
+
+#cabecera{
+		width: 95%;
+		height: 150px;
+		margin: 0px;
+		padding: 5px;
+		background-color: #fcf;
+		float: none;
+		
+	}
+
+#cabecerapri{
+		width: 20%;
+		height: 150px;
+		float: left;
+
+}
+#cabeceraseg{
+		width: 75%;
+		height: 150px;
+		float: left;
+		color:#f30;
+		font: 300%/50% "Edwardian Script ITC", sans-serif;
+}
+
+#menu{
+		width:95%; 
+		height: 55px;
+		background-color: #fcf;
+		float: none;
+		text-align: center;
+		padding: 0 0 0 10px;
+		
+}
+.button{
+	background: #c09;
+	color: #f03;
+	display: inline-block;
+	font-size: 1.25em;
+	margin: 0px;
+	padding: 10px;
+	text-align: center;
+	width: 200px;
+	text-decoration: none;
+	box-shadow: 1px 3px 1px #f06;
+
+}
+	
+#menuis{
+		width: 30%;
+		height: 410px;
+		background-color: #c9f;
+		float: left;
+		margin: 5px;
+		padding:0 0 0 0px;
+		font: 180%/180% "Informal Roman", sans-serif;
+		text-align: center;
+		border-radius:15px;
+
+	}
+
+#menucenter{
+		width: 40%;
+		height: 410px; 
+		background-color:#c9f;
+		float: left;
+		margin:5px;
+		padding: 0 0 0 10px;
+		font: 130%/130% "Franklin Gothic Demi", sans-serif;
+		border-radius:15px;
+		
+
+	}
+#menuder{
+		width:20%; 
+		height: 400px;
+		background-color: #c9f;
+		float: left;
+		margin:5px;
+		padding: 0 0 0 10px;
+		font: 130%/130% "Script MT Bold", sans-serif;
+		border-radius:15px;
+
+	}
+#pie{
+		width: 95%;
+		height: 20px;
+		background-color: #f0f;
+		float: none;
+		clear: both;
+		font: 120%/120% "Franklin Gothic Demi", sans-serif;
+}
+#cabecera #buscador{
+	position: absolute;
+	color:red;
+	top: 100px;
+	right: 100px;
+	font: 110%/50% "Edwardian ", sans-serif;
+}
+
+
+#fotos{
+   		 width: 40%;
+   		 margin:10px;
+   		 padding:0 0 0 10px;
+		height: 650px;
+		background-color: #c9f;
+		float: left;
+		border-radius:15px;
+}
+#histo{
+		width:50%; 
+		margin:10px;
+   		 padding:0 0 0 10px;
+		height: 650px;
+		background-color: #cCF;
+		float: left;
+		border-radius:15px;
+		font: 130%/130% "Script MT Bold", sans-serif;
+}
+#foto1{
+	width: 10%;
+	margin:10px;
+	padding:10px;
+	height: 150px;
+	float: none;
+	border-radius:15px;
+	}
+#foto2{
+	width: 10%;
+	margin:10px;
+	padding: 10px;
+	height: 180px;
+	float:left ;
+	border-radius:15px; 
+	
+}
+#foto3{
+	width: 10%;
+	margin:10px;
+	padding:10px;
+	height: 150px;
+	float: none;
+	border-radius:15px;
+	
+}
+h1,h2,h4,h5{
+	margin: 1.5em 0;
+	padding: 0;
+	}
+
+
+#cuerpo{
+		width:95%; 
+		margin:20px;
+   		 padding:0 0 0 20px;
+		background-color: #cff;
+		float: left;
+		border-radius:50px 0px 50px 0px;
+		font: 130%/130% "arial", sans-serif;
+}
+#arriba{
+		width:95%; 
+		height: 55px;
+		background-color: #fcf;
+		float: none;
+		text-align: center;
+		padding: 0 0 0 5px;
+		
+}
+a{
+	background: #fc0;
+	color: #630;
+	display: inline-block;
+	font-size: 1em;
+	margin: 1px;
+	padding: 10px;
+	text-align: center;
+	width: 300px;
+	text-decoration: none;
+	box-shadow: 10px 10px 30px #c00;
+}
+#tabla{
+	width:95%; 
+		margin:30px;
+   		 padding:10 10 10 20px;
+		background-color: #cc9;
+	color: #f06;
+	font: 130%/130% "arial", sans-serif;
+}
